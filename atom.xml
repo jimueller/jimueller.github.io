@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[jimueller]]></title>
+  <link href="http://jimueller.github.io/atom.xml" rel="self"/>
+  <link href="http://jimueller.github.io/"/>
+  <updated>2013-12-03T21:43:08-06:00</updated>
+  <id>http://jimueller.github.io/</id>
+  <author>
+    <name><![CDATA[jimueller]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="http://jimueller.github.io/blog/2013/11/25/first/"/>
+    <updated>2013-11-25T20:39:00-06:00</updated>
+    <id>http://jimueller.github.io/blog/2013/11/25/first</id>
+    <content type="html"><![CDATA[<h1>Yeah! I have octopress working!?</h1>
+
+<p>I really like the idea of blogging with Octopress.  The static files really seems
+like the way to go.</p>
+]]></content>
+  </entry>
+  
+</feed>
